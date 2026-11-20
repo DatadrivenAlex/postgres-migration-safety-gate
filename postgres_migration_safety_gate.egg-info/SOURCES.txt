@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+migration_guard/__init__.py
+migration_guard/analyzer.py
+migration_guard/api.py
+migration_guard/cli.py
+postgres_migration_safety_gate.egg-info/PKG-INFO
+postgres_migration_safety_gate.egg-info/SOURCES.txt
+postgres_migration_safety_gate.egg-info/dependency_links.txt
+postgres_migration_safety_gate.egg-info/entry_points.txt
+postgres_migration_safety_gate.egg-info/requires.txt
+postgres_migration_safety_gate.egg-info/top_level.txt
+tests/test_analyzer.py

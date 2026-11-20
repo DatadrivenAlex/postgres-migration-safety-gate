@@ -1,0 +1,2 @@
+[console_scripts]
+migration-guard = migration_guard.cli:main
